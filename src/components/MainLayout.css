@@ -1,0 +1,22 @@
+
+.main-layout {
+  display: flex;
+  min-height: 100vh;
+  background-color: #1A1F2C;
+  color: white;
+  font-family: sans-serif;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+}
+
+.content-container {
+  flex: 1;
+  max-width: 64rem;
+}
+
+.page-content {
+  padding: 1.5rem;
+}
